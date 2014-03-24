@@ -11,5 +11,10 @@ A sample template app for creating nodejs, express and bootstrap applications
 
 See package.json for all dependencies
 
-*Uses ejs as for templates.* 
+*Uses ejs for templates.* 
 
+### Comming soon...
+* Integrated bootstrap themes
+* Websockets integration
+* Grunt scripts for build and deployment
+* Heruku procfile for easy deployment
