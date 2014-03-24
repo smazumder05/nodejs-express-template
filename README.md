@@ -13,7 +13,7 @@ See package.json for all dependencies
 
 *Uses ejs for templates.* 
 
-### Comming soon...
+### Coming soon...
 * Integrated bootstrap themes
 * Websockets integration
 * Grunt scripts for build and deployment
