@@ -18,3 +18,12 @@ See package.json for all dependencies
 * Websockets integration
 * Grunt scripts for build and deployment
 * Heruku procfile for easy deployment
+
+### Installation
+1. git clone this repository
+2. Change the package.json file to change the project name and add any other dependendencies you may need.
+3. run npm install
+4. run node app.js
+5. To add new views, add newview.ejs and then add a route under the routes directory.
+6. Finally load the new view from app.js
+
